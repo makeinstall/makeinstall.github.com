@@ -1,2 +1,0 @@
-makeinstall.github.com
-======================
