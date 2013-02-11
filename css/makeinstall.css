@@ -1,0 +1,22 @@
+.logo{
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  vertical-align: text-top;
+  background-image: url("../img/icons/logo.png");
+  background-repeat: no-repeat;
+}
+
+#page-title-makeinstall {
+  background: url(../img/pagetitle_bg.jpg);
+  display: block;
+  margin-bottom: 25px;
+  position: relative;
+  z-index: 20;
+  border-bottom: 5px solid #f6f6f6;
+}
+
+#page-title-inner-makeinstall {
+  padding: 10px;
+}
